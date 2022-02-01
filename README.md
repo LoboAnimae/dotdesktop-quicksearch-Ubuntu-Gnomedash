@@ -18,7 +18,7 @@ Feel free to add any new items, but try to keep them on the same directories as 
 
 First, check if the application you want to add is already under the `desktop` folder. If not, you can try to create one and add it! I used [this](https://askubuntu.com/questions/281293/creating-a-desktop-file-for-a-new-application) question to help me create the ones I added :)
 
-If the file is actually there, download it, along with the icon inside the `icon` directory. Do not forget about the fact that you need the actual `.appimage` or executable! These **CANNOT** be found inside this repository.
+If the file is actually there, download it, along with the icon inside the same directory. Do not forget about the fact that you need the actual `.appimage` or executable! These **CANNOT** be found inside this repository.
 
 Finally, in the case of Ubuntu Gnome, just move the `.desktop` file into the `/usr/share/applications/` directory and the icon to the directory specified inside the `Icon` parameter inside the `.desktop` file.
 
