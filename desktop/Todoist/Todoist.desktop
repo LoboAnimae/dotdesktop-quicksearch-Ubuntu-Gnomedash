@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Todoist
+Exec=/usr/bin/Todoist %U
+Icon=/opt/Todoist/todoist.png
+Type=Application
+Categories=Utility;
+Terminal=false
